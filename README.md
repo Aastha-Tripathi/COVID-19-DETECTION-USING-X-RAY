@@ -11,3 +11,6 @@ Dataset2 - https://www.kaggle.com/bachrr/covid-chest-xray
 
 ## Link to the Documentation:
 https://drive.google.com/file/d/1W447hsqL0559xSArkI5oXmQVPlvduShK/view?usp=sharing
+
+## Google COLAB Link:
+https://colab.research.google.com/drive/1A7QyRJntZ4A2OXB7IhDmygU-Tkdkk7Yx?usp=sharing
